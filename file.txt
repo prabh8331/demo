@@ -1,3 +1,2 @@
-just a new file for some testing and learning 
-learning stashing in git 
-
+Time traveling in git learn 
+Update 1
