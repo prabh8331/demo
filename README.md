@@ -8,6 +8,7 @@ Our objective is to forecast Australian monthly gas production for 12 time perio
 #De- seasonalized time series #stationarization of the series
 #ARIMA #auto ARIMA 
 
-SOME UPDATE
+fsdmlssl
+
 
 
