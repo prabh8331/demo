@@ -1,2 +1,3 @@
 Time traveling in git learn 
 Update 1
+Update 2
