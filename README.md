@@ -7,3 +7,6 @@ Our objective is to forecast Australian monthly gas production for 12 time perio
 #tsplot #periodicity #decomposition of time series data #Seasonalty of Time Series
 #De- seasonalized time series #stationarization of the series
 #ARIMA #auto ARIMA 
+
+expermenting the branches 
+
